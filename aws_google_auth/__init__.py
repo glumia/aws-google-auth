@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 __version__ = "0.0.37"
 
 # HTTP request timeouts (in seconds).
