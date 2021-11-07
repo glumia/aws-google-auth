@@ -2,7 +2,7 @@
 
 import unittest
 
-from aws_google_auth import parse_args
+from aws_google_auth.cli import parse_args
 
 
 class TestPythonFailOnVersion(unittest.TestCase):
